@@ -90,7 +90,7 @@
         <jackson.datatype.version>${jackson.version}</jackson.datatype.version>
 
         <slf4j.version>1.7.22</slf4j.version>
-        <logback.version>1.2.1</logback.version>
+        <logback.version>1.2.9</logback.version>
 
         <sonar.language>java</sonar.language>
         <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
